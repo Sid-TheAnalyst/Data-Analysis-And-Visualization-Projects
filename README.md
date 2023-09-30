@@ -6,5 +6,5 @@
 
 ### Data Analysis And Visualization
   - **Power BI**
-    - [Maven Market Revenue Analysis](https://github.com/Sid-TheAnalyst/Data_Science_Portfolio_Projects/tree/main/Maven_Analytics_Project):
+    - [Maven Market Revenue Analysis](https://github.com/Sid-TheAnalyst/Data_Science_Portfolio_Projects/tree/main/Maven_Analytics_Project): Revenue analysis of "Maven Market - a multinational grocery chain" with locations in Canada, Mexico, and the United States.
 
