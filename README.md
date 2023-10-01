@@ -19,6 +19,6 @@
     - [Cyclistic-Bike-Share-Analysis-Using-R](https://github.com/Sid-TheAnalyst/Cyclistic-Bike-Share-Analysis-Using-R): In this project, I am working as a junior data analyst in the marketing analyst team at Cyclistic, a bike-share company in Chicago. I have created compelling data insights and professional data visualizations using R. From these insights, marketing team will design a new marketing strategy to convert casual riders into annual members.
     
   - **Python**
-    - [Exploratory Data Analysis Of 911 Calls Data Using Python](https://github.com/Sid-TheAnalyst/Exploratory-Data-Analysis-Of-911-CallsData/blob/main/Exploratory%20Data%20Analysis%20Of%20911%20Calls%20Data%20Using%20Python.ipynb): Exploratory Data Analysis of the 911 calls dataset hosted on Kaggle. Demonstrates extraction of useful features from different variables.
+    - [Analysis Of 911 Calls Data Using Python](https://github.com/Sid-TheAnalyst/Exploratory-Data-Analysis-Of-911-CallsData/blob/main/Exploratory%20Data%20Analysis%20Of%20911%20Calls%20Data%20Using%20Python.ipynb): Exploratory Data Analysis of the 911 calls dataset hosted on Kaggle. Demonstrates extraction of useful features from different variables.
       
    
