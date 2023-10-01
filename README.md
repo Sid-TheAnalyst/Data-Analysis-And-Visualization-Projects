@@ -15,4 +15,5 @@
 
   - **R Programming**
     - [Analysis-Of-Palmer-Penguins-Dataset-Using-R](https://github.com/Sid-TheAnalyst/Analysis-Of-Palmer-Penguins-Dataset-Using-R): Explore the relationships between penguin species and their physical attributes using R Programming
+    - [Analysis-Of-StarWars-Characters-Dataset-Using-R](https://github.com/Sid-TheAnalyst/Analysis-Of-StarWars-Characters-Dataset-Using-R-): This is an fun project created to practice my data analysis skills using R programming.
 
