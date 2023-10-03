@@ -11,7 +11,7 @@
 
   - **Excel Spreadsheets**
     - [eCommarce Store Sales Analysis](https://github.com/Sid-TheAnalyst/eCommerce_Store_Sales_Analysis): Vrinda store is selling their products online through diffrent channels like Amazon, Flipkart etc. They have a sales data of year 2022 & they want us to analyse this data to understand their customers to grow more sales in 2023.
-    - [Analysis-Of-IPL-Dataset](https://github.com/Sid-TheAnalyst/Analysis-Of-IPL-Dataset): Dashboard was built to analyze the season wise summary of the IPL tournament from 2008 to 2018.
+    - [Analysis-Of-IPL-Dataset](https://github.com/Sid-TheAnalyst/Analysis-Of-IPL-Dataset): Building an dashboard to analyze the season wise stats for the Indian Premier League(IPL) data from 2008 to 2018.
 
   - **R Programming**
     - [Analysis-Of-Palmer-Penguins-Dataset-Using-R](https://github.com/Sid-TheAnalyst/Analysis-Of-Palmer-Penguins-Dataset-Using-R): Explore the relationships between penguin species and their physical attributes using R Programming
