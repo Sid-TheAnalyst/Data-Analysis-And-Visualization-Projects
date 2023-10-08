@@ -21,6 +21,7 @@
     
   - **Python**
     - [Analysis Of 911 Calls Data Using Python](https://github.com/Sid-TheAnalyst/Exploratory-Data-Analysis-Of-911-Calls-Data/blob/main/Exploratory%20Data%20Analysis%20Of%20911%20Calls%20Data%20Using%20Python.ipynb): Exploratory Data Analysis of the 911 calls dataset hosted on Kaggle. Demonstrates extraction of useful features from different variables.
+    - [WebScraping YouTube Data For Exploratory Data Analysis](https://github.com/Sid-TheAnalyst/WebScraping-YouTube-Data-For-Exploratory-Data-Analysis/blob/main/WebSraping%20YouTube's%20Data%20For%20Analysis/WebScraping%20YouTube's%20Data%20For%20Exploratory%20Data%20Analysis.ipynb): I have build an Python Project to Scrape YouTube data using YouTube Data API. Using YouTube API, I extracted the data and then load this data into a Python Pandas DataFrame and then analyze this data. Finally, I had build a simple visualization from this data using the Python Seaborn library.
 
   - **SQL**
     - [Analysis-of-COVID19-Data-Using-SQL](https://github.com/Sid-TheAnalyst/Analysis-of-COVID19-Data-Using-SQL/blob/main/COVID19_DATA_Analysis/COVID19%20Analysis%20Using%20SQL.ipynb): The Covid-19 pandemic was a really serious outbreak that cost lives and affected the economy negatively. In this micro project, I have tried to analyse the COVID-19 data using SQL. The dataset used for this project have the recorded cases from 24th February 2020 to 30th April 2021.
