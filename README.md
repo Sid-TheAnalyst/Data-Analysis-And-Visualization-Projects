@@ -21,5 +21,7 @@
     
   - **Python**
     - [Analysis Of 911 Calls Data Using Python](https://github.com/Sid-TheAnalyst/Exploratory-Data-Analysis-Of-911-CallsData/blob/main/Exploratory%20Data%20Analysis%20Of%20911%20Calls%20Data%20Using%20Python.ipynb): Exploratory Data Analysis of the 911 calls dataset hosted on Kaggle. Demonstrates extraction of useful features from different variables.
-      
+
+  - **SQL**
+    - [Analysis-of-COVID19-Data-Using-SQL](https://github.com/Sid-TheAnalyst/Analysis-of-COVID19-Data-Using-SQL/blob/main/COVID19_DATA_Analysis/COVID19%20Analysis%20Using%20SQL.ipynb): The Covid-19 pandemic was a really serious outbreak that cost lives and affected the economy negatively. In this micro project, I have tried to analyse the COVID-19 data using SQL. The dataset used for this project have the recorded cases from 24th February 2020 to 30th April 2021.
    
